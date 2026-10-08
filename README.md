@@ -5,6 +5,7 @@ leetcode
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akhilpkl/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Akhilpkl/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -22,4 +23,5 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0520-detect-capital](https://github.com/Akhilpkl/Leetcode/tree/main/0520-detect-capital/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akhilpkl/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 <!---LeetCode Topics End-->

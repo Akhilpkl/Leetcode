@@ -18,4 +18,8 @@ leetcode
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Akhilpkl/Leetcode/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0520-detect-capital](https://github.com/Akhilpkl/Leetcode/tree/main/0520-detect-capital/) | Easy |
 <!---LeetCode Topics End-->

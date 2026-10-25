@@ -10,6 +10,7 @@ leetcode
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Akhilpkl/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Akhilpkl/Leetcode/tree/main/2154-keep-multiplying-found-values-by-two/) | Easy |
 | [2706-buy-two-chocolates](https://github.com/Akhilpkl/Leetcode/tree/main/2706-buy-two-chocolates/) | Easy |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/Akhilpkl/Leetcode/tree/main/3000-maximum-area-of-longest-diagonal-rectangle/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
